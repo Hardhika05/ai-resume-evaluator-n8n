@@ -77,9 +77,8 @@ AI-RESUME-EVALUATOR-N8N
 └── README.md
 ---
 
-## 🖼 Workflow Diagram
+## 🖼️ Workflow Diagram
 
 ![n8n Workflow](docs/workflow-diagram.png)
-
 
 This diagram shows how resume data flows through n8n, Ollama, and the parsing logic.
